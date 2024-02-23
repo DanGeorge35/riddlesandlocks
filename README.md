@@ -40,8 +40,4 @@ The game employs AI algorithms to analyze player performance and dynamically adj
 
 **Developer:** Anonymous
 
-## Contact Information
-
-For inquiries, support, or feedback, feel free to contact us at [support@riddlesandlocks.com](mailto:support@riddlesandlocks.com).
-
 Enjoy the adventure and happy unlocking!
