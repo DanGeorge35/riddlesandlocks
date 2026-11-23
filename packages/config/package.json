@@ -1,0 +1,13 @@
+{
+  "name": "@riddlesandlocks/config",
+  "version": "0.0.1",
+  "private": true,
+  "exports": {
+    "./eslint": "./eslint.js",
+    "./eslint-next": "./eslint-next.js",
+    "./prettier": "./prettier.js",
+    "./tsconfig.json": "./tsconfig.json",
+    "./tsconfig.nextjs.json": "./tsconfig.nextjs.json",
+    "./tsconfig.nest.json": "./tsconfig.nest.json"
+  }
+}
