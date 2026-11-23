@@ -1,0 +1,60 @@
+/* Design tokens extracted from Figma — DO NOT EDIT BY HAND */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  /* Colors — Primary */
+  --primary-gold: #d4a63a;
+  --primary-gold-hover: #e6bc55;
+  --primary-gold-faded: #6b5a2e;
+  --primary-gold-light: #2a2416;
+  --primary-gold-gradient: linear-gradient(90deg, #d4a63a, #f2d27a);
+
+  /* Colors — Secondary */
+  --secondary-ink: #0b1020;
+  --secondary-surface: #141a2e;
+  --secondary-surface-2: #1c2340;
+  --secondary-vault: #070a14;
+  --secondary-teal: #3cc8c8;
+
+  /* Colors — Semantic */
+  --semantic-success: #22c55e;
+  --semantic-success-light: #0f2e1c;
+  --semantic-warning: #f5b546;
+  --semantic-warning-light: #33270f;
+  --semantic-error: #e02424;
+  --semantic-error-2: #e06666;
+  --semantic-error-light: #331414;
+
+  /* Colors — Neutral */
+  --neutral-header-text: #f5f3ee;
+  --neutral-body-text: #c9cdd8;
+  --neutral-grey-text: #8a90a2;
+  --neutral-input-text: #a3a9ba;
+  --neutral-strokes: #2a3150;
+  --neutral-input-background: #121830;
+  --neutral-white: #ffffff;
+
+  /* Border radius */
+  --radius-input: 7px;
+  --radius-button: 10px;
+  --radius-chip: 12px;
+  --radius-card: 16px;
+
+  /* Spacing */
+  --space-screen: 24px;
+  --space-card: 16px 20px;
+  --space-section: 24px;
+
+  /* Shadows */
+  --shadow-card: 0 8px 24px rgba(0, 0, 0, 0.4);
+  --glow-gold: 0 0 24px rgba(212, 166, 58, 0.35);
+  --focus-ring: 0 0 0 3px rgba(212, 166, 58, 0.2);
+
+  /* Layout */
+  --layout-mobile: 393px;
+  --layout-desktop: 1440px;
+  --layout-sidebar: 240px;
+  --layout-topbar: 72px;
+  --layout-input-height: 50px;
+  --layout-button-height: 50px;
+}
