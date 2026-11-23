@@ -1,0 +1,380 @@
+{
+  "docs/FRD.md": {
+    "size": 83758,
+    "mtime_ns": 1795411205436904679,
+    "indexed_at_ns": 1795411543467054000,
+    "word_count": 12106,
+    "hashes": { "docs/FRD.md": "97fb92facddb57f4652deaed4943d45aacf052f1aa7faeec0ddac48484edc517" }
+  },
+  "package.json": {
+    "size": 737,
+    "mtime_ns": 1795411441379884494,
+    "indexed_at_ns": 1795411528326776000,
+    "word_count": 67,
+    "hashes": { "package.json": "922be6f3ef338027045966255aefcff2997aaa4fd31c38d02e90247175468e90" }
+  },
+  "packages/config/eslint-next.js": {
+    "size": 555,
+    "mtime_ns": 1795411467258723503,
+    "indexed_at_ns": 1795411511724137000,
+    "word_count": 48
+  },
+  "packages/config/eslint.js": {
+    "size": 678,
+    "mtime_ns": 1795411463542657837,
+    "indexed_at_ns": 1795411511724915000,
+    "word_count": 51
+  },
+  "packages/config/package.json": {
+    "size": 357,
+    "mtime_ns": 1795412450569343090,
+    "indexed_at_ns": 1795430579044950000,
+    "word_count": 23,
+    "hashes": {
+      "packages/config/package.json": "505f9e7df544b9200dca469565e79cd0df0f876a6295a4afd7253939ed4caef1"
+    }
+  },
+  "packages/config/tsconfig.json": {
+    "size": 438,
+    "mtime_ns": 1795411453599367556,
+    "indexed_at_ns": 1795411528376994000,
+    "word_count": 31,
+    "hashes": {
+      "packages/config/tsconfig.json": "abe11b2e35a472a01da39faa6cb5598bf717fbd6336e46a94a486040514476ca"
+    }
+  },
+  "packages/config/tsconfig.nest.json": {
+    "size": 337,
+    "mtime_ns": 1795411457339875835,
+    "indexed_at_ns": 1795411528378449000,
+    "word_count": 25,
+    "hashes": {
+      "packages/config/tsconfig.nest.json": "c84722fd25074585005871ea31fc320e6d42a4f09e71c4ecb4781f9e69c7388c"
+    }
+  },
+  "packages/config/tsconfig.nextjs.json": {
+    "size": 317,
+    "mtime_ns": 1795411455639442776,
+    "indexed_at_ns": 1795411528379993000,
+    "word_count": 29,
+    "hashes": {
+      "packages/config/tsconfig.nextjs.json": "c411456a45b270f95fa07dabb69ca6dbfcd0134184c0a87ce6e87b6ecd178fba"
+    }
+  },
+  "pnpm-workspace.yaml": {
+    "size": 40,
+    "mtime_ns": 1795411416428596892,
+    "indexed_at_ns": 1795411528381467000,
+    "word_count": 5,
+    "hashes": {
+      "pnpm-workspace.yaml": "4b77dad994e5bd6356134b2802fc1055df8061b1fda52141e8b4f94a8658c52f"
+    }
+  },
+  "tsconfig.json": {
+    "size": 316,
+    "mtime_ns": 1795411443102043898,
+    "indexed_at_ns": 1795411528382926000,
+    "word_count": 25,
+    "hashes": {
+      "tsconfig.json": "02c663eb616814cc99e40f4427874d8842989e4b4c90f06ec7ede1e1a644bcfd"
+    }
+  },
+  "turbo.json": {
+    "size": 647,
+    "mtime_ns": 1795411416698025378,
+    "indexed_at_ns": 1795411528384361000,
+    "word_count": 57,
+    "hashes": { "turbo.json": "de28a7d65a708338f6a1d4b2d0ac6bd2578fcf52e90231d6e0e7b0631ac7cf6a" }
+  },
+  ".husky/pre-commit": {
+    "size": 27,
+    "mtime_ns": 1795412420983508513,
+    "indexed_at_ns": 1795430578975140000,
+    "word_count": 3,
+    "hashes": {
+      ".husky/pre-commit": "30505f381f85b22fd13606a915d27f35a000547bd2e4aef70b91f5afbee433f6"
+    }
+  },
+  "apps/api/nest-cli.json": {
+    "size": 207,
+    "mtime_ns": 1795430332232996603,
+    "indexed_at_ns": 1795430579030561000,
+    "word_count": 15,
+    "hashes": {
+      "apps/api/nest-cli.json": "9a83ade6e02ef72d5a49c3de29ea28adba72915f14863e8cb3125c66b67ce856"
+    }
+  },
+  "apps/api/package.json": {
+    "size": 1548,
+    "mtime_ns": 1795412396562628763,
+    "indexed_at_ns": 1795430579031937000,
+    "word_count": 113,
+    "hashes": {
+      "apps/api/package.json": "06651df9462daa119b3508cb1b5f9f9c5c3d514a721d2b8d989f1f61a6b19a6f"
+    }
+  },
+  "apps/api/prisma/migrations/20261123000000_init/migration.sql": {
+    "size": 13709,
+    "mtime_ns": 1795430325968921255,
+    "indexed_at_ns": 1795430579033756000,
+    "word_count": 1508,
+    "hashes": {
+      "apps/api/prisma/migrations/20261123000000_init/migration.sql": "5f655d3f03f9a9629d2bfe2b30af3ba75dfe624a721c41356334348e49a09781"
+    }
+  },
+  "apps/api/prisma/seed.ts": {
+    "size": 1757,
+    "mtime_ns": 1795412391213121320,
+    "indexed_at_ns": 1795430566948270000,
+    "word_count": 171
+  },
+  "apps/api/prisma/tsconfig.seed.json": {
+    "size": 181,
+    "mtime_ns": 1795412399980507999,
+    "indexed_at_ns": 1795430579035072000,
+    "word_count": 15,
+    "hashes": {
+      "apps/api/prisma/tsconfig.seed.json": "f793c07c23171c2228cc9e2f1603a101d80131542a019499767468d050dfa520"
+    }
+  },
+  "apps/api/src/app.module.ts": {
+    "size": 179,
+    "mtime_ns": 1795412194635826337,
+    "indexed_at_ns": 1795430566951574000,
+    "word_count": 20
+  },
+  "apps/api/src/health/health.controller.ts": {
+    "size": 198,
+    "mtime_ns": 1795412199243662889,
+    "indexed_at_ns": 1795430566953287000,
+    "word_count": 25
+  },
+  "apps/api/src/main.ts": {
+    "size": 474,
+    "mtime_ns": 1795412192224137119,
+    "indexed_at_ns": 1795430566955158000,
+    "word_count": 48
+  },
+  "apps/api/tsconfig.json": {
+    "size": 222,
+    "mtime_ns": 1795412155304385255,
+    "indexed_at_ns": 1795430579036483000,
+    "word_count": 19,
+    "hashes": {
+      "apps/api/tsconfig.json": "55c823609eda089104c55bb4635cd369f71b05ddcc143b2412e0e9ac15b17447"
+    }
+  },
+  "apps/web/next.config.ts": {
+    "size": 178,
+    "mtime_ns": 1795412181436956347,
+    "indexed_at_ns": 1795430566958754000,
+    "word_count": 19
+  },
+  "apps/web/package.json": {
+    "size": 770,
+    "mtime_ns": 1795412129527578736,
+    "indexed_at_ns": 1795430579037921000,
+    "word_count": 64,
+    "hashes": {
+      "apps/web/package.json": "a503ba031397e4a52a8dc1fb98d9696ecd60b40227520f5645631e774a061723"
+    }
+  },
+  "apps/web/src/app/layout.tsx": {
+    "size": 396,
+    "mtime_ns": 1795412171840642824,
+    "indexed_at_ns": 1795430566962144000,
+    "word_count": 49
+  },
+  "apps/web/src/app/page.tsx": {
+    "size": 341,
+    "mtime_ns": 1795412178262580046,
+    "indexed_at_ns": 1795430566963890000,
+    "word_count": 37
+  },
+  "apps/web/tailwind.config.ts": {
+    "size": 848,
+    "mtime_ns": 1795412188110790276,
+    "indexed_at_ns": 1795430566965395000,
+    "word_count": 81
+  },
+  "apps/web/tsconfig.json": {
+    "size": 267,
+    "mtime_ns": 1795412152183082744,
+    "indexed_at_ns": 1795430579039282000,
+    "word_count": 21,
+    "hashes": {
+      "apps/web/tsconfig.json": "4dfcd7ec56a5967b6816c2c2d417a7959b0d156f3882549ca55774e193c667db"
+    }
+  },
+  "docker-compose.yml": {
+    "size": 918,
+    "mtime_ns": 1795412204000890935,
+    "indexed_at_ns": 1795430579040852000,
+    "word_count": 75,
+    "hashes": {
+      "docker-compose.yml": "d7810927047b6dcb2a05f2a2ef854c38a313203a74e3e05382f46df2414190c8"
+    }
+  },
+  "packages/chain/package.json": {
+    "size": 505,
+    "mtime_ns": 1795412149113478420,
+    "indexed_at_ns": 1795430579042202000,
+    "word_count": 44,
+    "hashes": {
+      "packages/chain/package.json": "5645c910bf0be1f82e42e0b0a35cdda35a732d27219e1f6b1d93624344101641"
+    }
+  },
+  "packages/chain/src/index.ts": {
+    "size": 97,
+    "mtime_ns": 1795412369257537833,
+    "indexed_at_ns": 1795430566973645000,
+    "word_count": 11
+  },
+  "packages/chain/src/types.ts": {
+    "size": 1301,
+    "mtime_ns": 1795412366962623797,
+    "indexed_at_ns": 1795430566975497000,
+    "word_count": 154
+  },
+  "packages/chain/tsconfig.json": {
+    "size": 192,
+    "mtime_ns": 1795412164075486116,
+    "indexed_at_ns": 1795430579043550000,
+    "word_count": 16,
+    "hashes": {
+      "packages/chain/tsconfig.json": "5331d8c02a45d69a7702121b1f9ff77bec0431d4072ce3327420f20c1c804f90"
+    }
+  },
+  "packages/shared/package.json": {
+    "size": 409,
+    "mtime_ns": 1795412140198720784,
+    "indexed_at_ns": 1795430579045688000,
+    "word_count": 38,
+    "hashes": {
+      "packages/shared/package.json": "802e3c3018fc6986eef684868ca8e566c1cba2ac4a8dc8f3c9bb78e0161fcd67"
+    }
+  },
+  "packages/shared/src/answer.ts": {
+    "size": 263,
+    "mtime_ns": 1795412248469589890,
+    "indexed_at_ns": 1795430566986048000,
+    "word_count": 33
+  },
+  "packages/shared/src/dtos.ts": {
+    "size": 3829,
+    "mtime_ns": 1795412272655019916,
+    "indexed_at_ns": 1795430566987350000,
+    "word_count": 249
+  },
+  "packages/shared/src/errors.ts": {
+    "size": 1124,
+    "mtime_ns": 1795412261089753483,
+    "indexed_at_ns": 1795430566989198000,
+    "word_count": 74
+  },
+  "packages/shared/src/index.ts": {
+    "size": 101,
+    "mtime_ns": 1795412274916532790,
+    "indexed_at_ns": 1795430566990701000,
+    "word_count": 16
+  },
+  "packages/shared/src/money.ts": {
+    "size": 1012,
+    "mtime_ns": 1795412254968244394,
+    "indexed_at_ns": 1795430566991981000,
+    "word_count": 143
+  },
+  "packages/shared/tsconfig.json": {
+    "size": 192,
+    "mtime_ns": 1795412159199203724,
+    "indexed_at_ns": 1795430579046824000,
+    "word_count": 16,
+    "hashes": {
+      "packages/shared/tsconfig.json": "3a0bced507b311c3b7f75524e863134de962d8db287c160eb311d30118e70fe5"
+    }
+  },
+  "packages/ui/package.json": {
+    "size": 924,
+    "mtime_ns": 1795412145389057324,
+    "indexed_at_ns": 1795430579048101000,
+    "word_count": 75,
+    "hashes": {
+      "packages/ui/package.json": "d49d85f82f3e8ef07b611339712111c4f9fdc29d07f785d8e1368424470e0142"
+    }
+  },
+  "packages/ui/src/components/AnswerInput.tsx": {
+    "size": 1398,
+    "mtime_ns": 1795412342724535948,
+    "indexed_at_ns": 1795430566996099000,
+    "word_count": 115
+  },
+  "packages/ui/src/components/Button.tsx": {
+    "size": 1598,
+    "mtime_ns": 1795412311613480364,
+    "indexed_at_ns": 1795430566997819000,
+    "word_count": 161
+  },
+  "packages/ui/src/components/Chip.tsx": {
+    "size": 1216,
+    "mtime_ns": 1795412323795519293,
+    "indexed_at_ns": 1795430566999681000,
+    "word_count": 116
+  },
+  "packages/ui/src/components/Input.tsx": {
+    "size": 1485,
+    "mtime_ns": 1795412317558222667,
+    "indexed_at_ns": 1795430567001289000,
+    "word_count": 130
+  },
+  "packages/ui/src/components/LevelBadge.tsx": {
+    "size": 1041,
+    "mtime_ns": 1795412351250277845,
+    "indexed_at_ns": 1795430567002678000,
+    "word_count": 113
+  },
+  "packages/ui/src/components/Money.tsx": {
+    "size": 536,
+    "mtime_ns": 1795412328299154659,
+    "indexed_at_ns": 1795430567004187000,
+    "word_count": 61
+  },
+  "packages/ui/src/components/PotCard.tsx": {
+    "size": 1778,
+    "mtime_ns": 1795412336365675431,
+    "indexed_at_ns": 1795430567005745000,
+    "word_count": 165
+  },
+  "packages/ui/src/components/Skeleton.tsx": {
+    "size": 240,
+    "mtime_ns": 1795412345371867616,
+    "indexed_at_ns": 1795430567007333000,
+    "word_count": 26
+  },
+  "packages/ui/src/components/Toast.tsx": {
+    "size": 960,
+    "mtime_ns": 1795412356099659089,
+    "indexed_at_ns": 1795430567008584000,
+    "word_count": 88
+  },
+  "packages/ui/src/index.ts": {
+    "size": 375,
+    "mtime_ns": 1795412359175291839,
+    "indexed_at_ns": 1795430567009685000,
+    "word_count": 40
+  },
+  "packages/ui/src/tailwind-preset.ts": {
+    "size": 1624,
+    "mtime_ns": 1795412295139463592,
+    "indexed_at_ns": 1795430567010808000,
+    "word_count": 159
+  },
+  "packages/ui/tsconfig.json": {
+    "size": 219,
+    "mtime_ns": 1795412161700115955,
+    "indexed_at_ns": 1795430579049584000,
+    "word_count": 17,
+    "hashes": {
+      "packages/ui/tsconfig.json": "c7a1bc1ea1cbdf9f6a2eb1f55cde1d53d413dcd3fab7ee39a86d5acdde0559fe"
+    }
+  }
+}

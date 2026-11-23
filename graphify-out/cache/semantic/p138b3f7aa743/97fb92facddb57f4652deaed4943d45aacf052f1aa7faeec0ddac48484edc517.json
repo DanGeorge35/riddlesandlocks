@@ -1,0 +1,1212 @@
+{
+  "nodes": [
+    {
+      "id": "docs_frd_riddle",
+      "label": "Riddle",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72 Glossary"
+    },
+    {
+      "id": "docs_frd_piece",
+      "label": "Piece (sub-puzzle)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72 Glossary"
+    },
+    {
+      "id": "docs_frd_final_answer",
+      "label": "Final Answer",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72 Glossary"
+    },
+    {
+      "id": "docs_frd_entry",
+      "label": "Entry (paid ticket)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72 Glossary"
+    },
+    {
+      "id": "docs_frd_attempt",
+      "label": "Attempt",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72 Glossary"
+    },
+    {
+      "id": "docs_frd_ledger",
+      "label": "Ledger (append-only)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72 Glossary"
+    },
+    {
+      "id": "docs_frd_commit_reveal",
+      "label": "Commit\u2013Reveal Protocol",
+      "file_type": "rationale",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72 / \u00a76.4 FR-PLAY-08"
+    },
+    {
+      "id": "docs_frd_game_card",
+      "label": "Game Card (promo credit)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72 / \u00a75.5"
+    },
+    {
+      "id": "docs_frd_pot",
+      "label": "Prize Pot",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72"
+    },
+    {
+      "id": "docs_frd_level_novice",
+      "label": "Level: Novice",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a73.2"
+    },
+    {
+      "id": "docs_frd_level_apprentice",
+      "label": "Level: Apprentice",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a73.2"
+    },
+    {
+      "id": "docs_frd_level_riddler",
+      "label": "Level: Riddler",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a73.2"
+    },
+    {
+      "id": "docs_frd_level_enigmatist",
+      "label": "Level: Enigmatist",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a73.2"
+    },
+    {
+      "id": "docs_frd_level_master",
+      "label": "Level: Master of Minds",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a73.2"
+    },
+    {
+      "id": "docs_frd_mode_practice",
+      "label": "Practice Mode",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a74.1"
+    },
+    {
+      "id": "docs_frd_mode_exhibition",
+      "label": "Exhibition Mode (daily)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a74.2"
+    },
+    {
+      "id": "docs_frd_mode_weekly",
+      "label": "Weekly Mode",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a74.3"
+    },
+    {
+      "id": "docs_frd_mode_legendary",
+      "label": "Legendary Mode",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a74.4"
+    },
+    {
+      "id": "docs_frd_mode_sponsored",
+      "label": "Sponsored Mode",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a74.5"
+    },
+    {
+      "id": "docs_frd_economy_entry_split",
+      "label": "Entry Split Formula",
+      "file_type": "rationale",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75.1"
+    },
+    {
+      "id": "docs_frd_economy_payout",
+      "label": "Solve Payout (60/40 rule)",
+      "file_type": "rationale",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75.2"
+    },
+    {
+      "id": "docs_frd_referral_commission",
+      "label": "Referral Commission",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75.3"
+    },
+    {
+      "id": "docs_frd_micro_usdt",
+      "label": "Micro-USDT (BigInt 6 decimals)",
+      "file_type": "rationale",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75 preamble"
+    },
+    {
+      "id": "docs_frd_economy_settings",
+      "label": "EconomySettings (versioned)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75.6"
+    },
+    {
+      "id": "docs_frd_auth_google",
+      "label": "Google OAuth Sign-In",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.1 FR-AUTH-01"
+    },
+    {
+      "id": "docs_frd_auth_email_otp",
+      "label": "Email OTP Sign-In",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.1 FR-AUTH-01"
+    },
+    {
+      "id": "docs_frd_auth_region_check",
+      "label": "Region Block (IP geolocation)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.1 FR-AUTH-04"
+    },
+    {
+      "id": "docs_frd_auth_jwt",
+      "label": "JWT + Rotating Refresh Token",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.1 FR-AUTH-05"
+    },
+    {
+      "id": "docs_frd_lobby",
+      "label": "Lobby (level-aware)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.3"
+    },
+    {
+      "id": "docs_frd_workspace",
+      "label": "Riddle Workspace",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.4 FR-PLAY-04"
+    },
+    {
+      "id": "docs_frd_piece_check",
+      "label": "Piece Check (free, limited)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.4 FR-PLAY-05"
+    },
+    {
+      "id": "docs_frd_normalise_answer",
+      "label": "normaliseAnswer() \u2014 A-Z 0-9 uppercase",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.4 FR-PLAY-07"
+    },
+    {
+      "id": "docs_frd_solve_race",
+      "label": "Solve Race (SELECT FOR UPDATE)",
+      "file_type": "rationale",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.4 FR-PLAY-11"
+    },
+    {
+      "id": "docs_frd_wallet_deposit",
+      "label": "Wallet Deposit (Polygon + Solana)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.6 FR-WAL-04"
+    },
+    {
+      "id": "docs_frd_wallet_withdraw",
+      "label": "Wallet Withdraw",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.6 FR-WAL-06"
+    },
+    {
+      "id": "docs_frd_payout_wallet",
+      "label": "Payout Wallet (player-owned)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.6 FR-WAL-10"
+    },
+    {
+      "id": "docs_frd_referral_link",
+      "label": "Referral Link (Riddler+)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.7 FR-REF-01"
+    },
+    {
+      "id": "docs_frd_winners_wall",
+      "label": "Winners Wall",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.8 FR-COM-01"
+    },
+    {
+      "id": "docs_frd_social_clue",
+      "label": "Social Clue (drop + archive)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.5"
+    },
+    {
+      "id": "docs_frd_admin_review",
+      "label": "Admin Review Queue",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.11 FR-ADM-02"
+    },
+    {
+      "id": "docs_frd_admin_approve",
+      "label": "Admin Approve & Lock (hash + delete)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.11 FR-ADM-05"
+    },
+    {
+      "id": "docs_frd_info_boundary",
+      "label": "Information Boundary (FR-VIS-01..07)",
+      "file_type": "rationale",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.12"
+    },
+    {
+      "id": "docs_frd_model_user",
+      "label": "DB Model: User",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "id": "docs_frd_model_wallet",
+      "label": "DB Model: Wallet (custodial deposit addr)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "id": "docs_frd_model_riddle",
+      "label": "DB Model: Riddle",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "id": "docs_frd_model_piece",
+      "label": "DB Model: Piece",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "id": "docs_frd_model_entry",
+      "label": "DB Model: Entry",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "id": "docs_frd_model_attempt",
+      "label": "DB Model: Attempt",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "id": "docs_frd_model_ledgerline",
+      "label": "DB Model: LedgerLine (insert-only)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "id": "docs_frd_model_chaintx",
+      "label": "DB Model: ChainTx",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "id": "docs_frd_model_economy_settings",
+      "label": "DB Model: EconomySettings",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "id": "docs_frd_polygon_adapter",
+      "label": "Polygon Chain Adapter (ethers.js v6)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a710 / \u00a714.1"
+    },
+    {
+      "id": "docs_frd_solana_adapter",
+      "label": "Solana Chain Adapter (@solana/kit)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a710 / \u00a714.1"
+    },
+    {
+      "id": "docs_frd_chain_adapter_interface",
+      "label": "ChainAdapter Interface",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1 packages/chain"
+    },
+    {
+      "id": "docs_frd_wallet_verification",
+      "label": "Test-Payment Wallet Verification",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a710.6.1"
+    },
+    {
+      "id": "docs_frd_reserve_tracking",
+      "label": "Treasury Reserve Tracking",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a710.7"
+    },
+    {
+      "id": "docs_frd_job_exhibition_open",
+      "label": "Job: exhibition.open (00:00 WAT)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a79"
+    },
+    {
+      "id": "docs_frd_job_chain_watch",
+      "label": "Job: chain.watchDeposits",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a79"
+    },
+    {
+      "id": "docs_frd_job_referral_settle",
+      "label": "Job: referral.settle",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a79"
+    },
+    {
+      "id": "docs_frd_bullmq",
+      "label": "BullMQ + Redis (job queue)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a79"
+    },
+    {
+      "id": "docs_frd_realtime",
+      "label": "Realtime (Socket.IO /live)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a78.3"
+    },
+    {
+      "id": "docs_frd_pkg_shared",
+      "label": "packages/shared (normaliseAnswer, money, DTOs)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "id": "docs_frd_pkg_ui",
+      "label": "packages/ui (design tokens, Tailwind, Storybook)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a713 / \u00a714.1"
+    },
+    {
+      "id": "docs_frd_pkg_chain",
+      "label": "packages/chain (ChainAdapter + adapters)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "id": "docs_frd_app_web",
+      "label": "apps/web (Next.js 15 App Router)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a713.1 / \u00a714.1"
+    },
+    {
+      "id": "docs_frd_app_api",
+      "label": "apps/api (NestJS + Prisma)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.2"
+    },
+    {
+      "id": "docs_frd_design_tokens",
+      "label": "Design Tokens (CSS variables from Figma)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a713.2"
+    },
+    {
+      "id": "docs_frd_component_library",
+      "label": "Component Library (Button, Input, Chip, PotCard...)",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a713.3"
+    },
+    {
+      "id": "docs_frd_hmac_answer",
+      "label": "HMAC-SHA256 Answer Hash (SEC-01)",
+      "file_type": "rationale",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a711 SEC-01"
+    },
+    {
+      "id": "docs_frd_idempotency",
+      "label": "Idempotency Key (money POSTs)",
+      "file_type": "rationale",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a78 / SEC-05"
+    },
+    {
+      "id": "docs_frd_double_entry",
+      "label": "Double-Entry Ledger (sum=0 constraint)",
+      "file_type": "rationale",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 FR-DATA-01"
+    },
+    {
+      "id": "docs_frd_phase_0",
+      "label": "Phase 0: Foundation",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "id": "docs_frd_phase_1",
+      "label": "Phase 1: Design System in Code",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "id": "docs_frd_phase_2",
+      "label": "Phase 2: Auth & Onboarding",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "id": "docs_frd_phase_3",
+      "label": "Phase 3: Ledger, Wallet & Chain",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "id": "docs_frd_phase_4",
+      "label": "Phase 4: Riddles & Play Engine",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "id": "docs_frd_phase_5",
+      "label": "Phase 5: Levels, Exhibition, Weekly, Legendary, Sponsored",
+      "file_type": "concept",
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    }
+  ],
+  "edges": [
+    {
+      "source": "docs_frd_riddle",
+      "target": "docs_frd_piece",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72"
+    },
+    {
+      "source": "docs_frd_riddle",
+      "target": "docs_frd_final_answer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72"
+    },
+    {
+      "source": "docs_frd_entry",
+      "target": "docs_frd_attempt",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a72"
+    },
+    {
+      "source": "docs_frd_final_answer",
+      "target": "docs_frd_commit_reveal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.4 FR-PLAY-08"
+    },
+    {
+      "source": "docs_frd_final_answer",
+      "target": "docs_frd_normalise_answer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.4 FR-PLAY-07"
+    },
+    {
+      "source": "docs_frd_normalise_answer",
+      "target": "docs_frd_pkg_shared",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "source": "docs_frd_micro_usdt",
+      "target": "docs_frd_pkg_shared",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "source": "docs_frd_economy_entry_split",
+      "target": "docs_frd_referral_commission",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75.1"
+    },
+    {
+      "source": "docs_frd_economy_entry_split",
+      "target": "docs_frd_pot",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75.1"
+    },
+    {
+      "source": "docs_frd_economy_payout",
+      "target": "docs_frd_pot",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75.2"
+    },
+    {
+      "source": "docs_frd_economy_payout",
+      "target": "docs_frd_double_entry",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 FR-DATA-01"
+    },
+    {
+      "source": "docs_frd_referral_commission",
+      "target": "docs_frd_referral_link",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75.3 / \u00a76.7"
+    },
+    {
+      "source": "docs_frd_referral_link",
+      "target": "docs_frd_level_riddler",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.7 FR-REF-01 / FR-LVL-09"
+    },
+    {
+      "source": "docs_frd_level_novice",
+      "target": "docs_frd_mode_practice",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a73.2 / \u00a74.1"
+    },
+    {
+      "source": "docs_frd_level_novice",
+      "target": "docs_frd_game_card",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75.5"
+    },
+    {
+      "source": "docs_frd_level_novice",
+      "target": "docs_frd_mode_exhibition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a73.2"
+    },
+    {
+      "source": "docs_frd_level_riddler",
+      "target": "docs_frd_mode_weekly",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a73.2 / FR-LVL-05"
+    },
+    {
+      "source": "docs_frd_level_riddler",
+      "target": "docs_frd_mode_legendary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a73.2"
+    },
+    {
+      "source": "docs_frd_mode_exhibition",
+      "target": "docs_frd_pot",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a74.2"
+    },
+    {
+      "source": "docs_frd_mode_weekly",
+      "target": "docs_frd_pot",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a74.3"
+    },
+    {
+      "source": "docs_frd_mode_legendary",
+      "target": "docs_frd_pot",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a74.4"
+    },
+    {
+      "source": "docs_frd_mode_sponsored",
+      "target": "docs_frd_mode_exhibition",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a74.5"
+    },
+    {
+      "source": "docs_frd_economy_settings",
+      "target": "docs_frd_model_economy_settings",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a75.6 / \u00a77"
+    },
+    {
+      "source": "docs_frd_model_user",
+      "target": "docs_frd_model_wallet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "source": "docs_frd_model_riddle",
+      "target": "docs_frd_model_piece",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "source": "docs_frd_model_riddle",
+      "target": "docs_frd_model_entry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "source": "docs_frd_model_entry",
+      "target": "docs_frd_model_attempt",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 Prisma"
+    },
+    {
+      "source": "docs_frd_model_ledgerline",
+      "target": "docs_frd_double_entry",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a77 FR-DATA-01"
+    },
+    {
+      "source": "docs_frd_double_entry",
+      "target": "docs_frd_idempotency",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a78 / SEC-05"
+    },
+    {
+      "source": "docs_frd_chain_adapter_interface",
+      "target": "docs_frd_polygon_adapter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "source": "docs_frd_chain_adapter_interface",
+      "target": "docs_frd_solana_adapter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "source": "docs_frd_chain_adapter_interface",
+      "target": "docs_frd_pkg_chain",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "source": "docs_frd_job_exhibition_open",
+      "target": "docs_frd_mode_exhibition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a79"
+    },
+    {
+      "source": "docs_frd_job_chain_watch",
+      "target": "docs_frd_wallet_deposit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a79"
+    },
+    {
+      "source": "docs_frd_job_referral_settle",
+      "target": "docs_frd_referral_commission",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a79"
+    },
+    {
+      "source": "docs_frd_bullmq",
+      "target": "docs_frd_job_exhibition_open",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a79"
+    },
+    {
+      "source": "docs_frd_bullmq",
+      "target": "docs_frd_job_chain_watch",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a79"
+    },
+    {
+      "source": "docs_frd_bullmq",
+      "target": "docs_frd_job_referral_settle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a79"
+    },
+    {
+      "source": "docs_frd_realtime",
+      "target": "docs_frd_app_web",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a78.3"
+    },
+    {
+      "source": "docs_frd_realtime",
+      "target": "docs_frd_app_api",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a78.3"
+    },
+    {
+      "source": "docs_frd_design_tokens",
+      "target": "docs_frd_pkg_ui",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a713.2"
+    },
+    {
+      "source": "docs_frd_component_library",
+      "target": "docs_frd_pkg_ui",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a713.3"
+    },
+    {
+      "source": "docs_frd_app_web",
+      "target": "docs_frd_pkg_ui",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "source": "docs_frd_app_web",
+      "target": "docs_frd_pkg_shared",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "source": "docs_frd_app_api",
+      "target": "docs_frd_pkg_shared",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "source": "docs_frd_app_api",
+      "target": "docs_frd_pkg_chain",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.1"
+    },
+    {
+      "source": "docs_frd_app_api",
+      "target": "docs_frd_bullmq",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.2"
+    },
+    {
+      "source": "docs_frd_app_api",
+      "target": "docs_frd_realtime",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a714.2"
+    },
+    {
+      "source": "docs_frd_hmac_answer",
+      "target": "docs_frd_normalise_answer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a711 SEC-01"
+    },
+    {
+      "source": "docs_frd_hmac_answer",
+      "target": "docs_frd_admin_approve",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.11 FR-ADM-05"
+    },
+    {
+      "source": "docs_frd_info_boundary",
+      "target": "docs_frd_app_api",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.12 FR-VIS-03"
+    },
+    {
+      "source": "docs_frd_wallet_verification",
+      "target": "docs_frd_payout_wallet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a710.6.1"
+    },
+    {
+      "source": "docs_frd_reserve_tracking",
+      "target": "docs_frd_polygon_adapter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a710.7"
+    },
+    {
+      "source": "docs_frd_reserve_tracking",
+      "target": "docs_frd_solana_adapter",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a710.7"
+    },
+    {
+      "source": "docs_frd_phase_0",
+      "target": "docs_frd_pkg_shared",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_phase_0",
+      "target": "docs_frd_pkg_ui",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_phase_1",
+      "target": "docs_frd_component_library",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_phase_2",
+      "target": "docs_frd_auth_google",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_phase_3",
+      "target": "docs_frd_model_ledgerline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_phase_3",
+      "target": "docs_frd_chain_adapter_interface",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_phase_4",
+      "target": "docs_frd_commit_reveal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_phase_4",
+      "target": "docs_frd_solve_race",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_phase_5",
+      "target": "docs_frd_mode_exhibition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_phase_5",
+      "target": "docs_frd_mode_weekly",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_phase_5",
+      "target": "docs_frd_mode_legendary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a715"
+    },
+    {
+      "source": "docs_frd_lobby",
+      "target": "docs_frd_app_web",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a713.4"
+    },
+    {
+      "source": "docs_frd_workspace",
+      "target": "docs_frd_piece_check",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.4"
+    },
+    {
+      "source": "docs_frd_workspace",
+      "target": "docs_frd_commit_reveal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.4"
+    },
+    {
+      "source": "docs_frd_social_clue",
+      "target": "docs_frd_piece",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md",
+      "source_location": "\u00a76.5"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "docs_frd_economy_core",
+      "label": "Core Economy Rules",
+      "nodes": [
+        "docs_frd_economy_entry_split",
+        "docs_frd_economy_payout",
+        "docs_frd_referral_commission",
+        "docs_frd_micro_usdt",
+        "docs_frd_double_entry"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md"
+    },
+    {
+      "id": "docs_frd_monorepo_packages",
+      "label": "Monorepo Package Architecture",
+      "nodes": [
+        "docs_frd_pkg_shared",
+        "docs_frd_pkg_ui",
+        "docs_frd_pkg_chain",
+        "docs_frd_app_web",
+        "docs_frd_app_api"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md"
+    },
+    {
+      "id": "docs_frd_security_core",
+      "label": "Core Security Mechanisms",
+      "nodes": [
+        "docs_frd_hmac_answer",
+        "docs_frd_commit_reveal",
+        "docs_frd_idempotency",
+        "docs_frd_solve_race"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "docs/FRD.md"
+    }
+  ]
+}
