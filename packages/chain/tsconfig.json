@@ -1,0 +1,9 @@
+{
+  "extends": "@riddlesandlocks/config/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "dist"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
